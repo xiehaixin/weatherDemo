@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootJava8
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HX
+Implementation-Vendor-Id: com.waylau.spring.cloud.weather
+Build-Jdk: 1.8.0_102
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/micro-weather-basic
+Created-By: Maven Integration for Eclipse
+
